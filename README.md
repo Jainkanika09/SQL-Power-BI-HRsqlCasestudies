@@ -66,7 +66,7 @@ Provides an overview of employee distribution, salary analysis, training perform
 Linkedin -(https://www.linkedin.com/in/kanika-jain-a46816228/)
 Portfolio- (https://jainkanika09.github.io/jainkanika09.git.io/)
 
-Kanika Jain-
+Kanika Jain
 -This dashboard can help HR leadership
 
 Improve retention strategy
