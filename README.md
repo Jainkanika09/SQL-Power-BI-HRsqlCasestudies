@@ -63,8 +63,8 @@ Provides an overview of employee distribution, salary analysis, training perform
 *Attrition reasons provided insights into workforce stability.
 *Business Impact
 
-https://www.linkedin.com/in/kanika-jain-a46816228/
-https://jainkanika09.github.io/jainkanika09.git.io/
+Linkedin -(https://www.linkedin.com/in/kanika-jain-a46816228/)
+Portfolio- (https://jainkanika09.github.io/jainkanika09.git.io/)
 Kanika Jain
 This dashboard can help HR leadership:
 
